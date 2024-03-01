@@ -1,9 +1,6 @@
 # Indian Automotive Insights Unveiling Trends through Data Analysis
 
-𝐄𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐀𝐮𝐭𝐨𝐦𝐨𝐭𝐢𝐯𝐞 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 🚗📈<br>
-Thrilled to share an overview of my recent data analysis on a fascinating automotive dataset! 🚀 Special thanks to my mentor Rushikesh Konapure for guidance throughout the process. Grateful for the support from PrepInsta in undertaking this insightful exploration. Now, let's dive into the key steps and insights!
-
-𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
+𝐃𝐚𝐭𝐚𝐬𝐞𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰<br>
 
  Around 3.34 Lakh passenger cars were sold in the Indian market in May 2023. The sales increased by over 13% when compared to May last year. The Top 25 Selling Cars constituted over 75% of the cars sold in April 2023.
 
